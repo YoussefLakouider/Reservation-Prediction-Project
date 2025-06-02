@@ -1,0 +1,10 @@
+pandas 
+snowflake-connector-python
+snowflake-sqlalchemy
+jupyter
+matplotlib
+seaborn
+Plotly
+scikit-learn
+category_encoders
+lightgbm
