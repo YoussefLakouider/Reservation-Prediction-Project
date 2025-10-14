@@ -1,4 +1,4 @@
-# Prédiction des Réservations
+# Prédiction des réservations des box de self-stockage
 
 ## Présentation du projet
 Ce projet propose une analyse et une modélisation prédictive du nombre de réservations à partir de données tabulaires anonymisées. Il comprend des scripts Python et un notebook Jupyter pour l’exploration, la visualisation, la préparation des données et la mise en œuvre de modèles de machine learning.
