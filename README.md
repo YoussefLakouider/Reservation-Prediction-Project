@@ -17,7 +17,7 @@ Il inclut :
 ## Contenu du dépôt
 - prediction_reservation_clustring.ipynb : notebook principal avec tout le workflow (EDA, visualisation, modélisation, clustering).
 - requirements.txt : liste des dépendances Python.
-- 
+
 ## Fonctionnalités principales
 - Nettoyage et préparation des données.
 - Analyse statistique et visualisation (matplotlib, seaborn, plotly).
